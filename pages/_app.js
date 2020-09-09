@@ -1,7 +1,9 @@
-import '../styles/globals.css'
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
-}
 
-export default MyApp
+
+import React from 'react'
+import 'tailwindcss/dist/base.min.css'
+
+const App = ({ Component, pageProps }) => <Component {...pageProps} />
+
+export default App
