@@ -4776,10 +4776,10 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-tailwindcss@^1.7.5:
-  version "1.8.5"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-1.8.5.tgz#3b4624530b5fd71688fd04d16d8bd8c8d56834de"
-  integrity sha512-W4kLvs0iADgn83AOtI35pi24OGgxCfKls9H8qfdwbDTyO2ec7zBPgfEqu2mzaMdE3MWhtbCpyeCDY5rjmCHjTw==
+tailwindcss@^1.8.8:
+  version "1.8.12"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-1.8.12.tgz#5a33692b5eebd79836210db1449dcbd8d6ea9bd3"
+  integrity sha512-VChYp+4SduP8hHFAmf75P5Yf0qNQi3oSSnpEMKkC6kWW/9K+SizRgbmllqLJLnTZq+eM3TDwvn1jWXvvg+dfDA==
   dependencies:
     "@fullhuman/postcss-purgecss" "^2.1.2"
     autoprefixer "^9.4.5"
@@ -4922,10 +4922,10 @@ tty-browserify@0.0.0:
   resolved "https://registry.yarnpkg.com/tty-browserify/-/tty-browserify-0.0.0.tgz#a157ba402da24e9bf957f9aa69d524eed42901a6"
   integrity sha1-oVe6QC2iTpv5V/mqadUk7tQpAaY=
 
-twin.macro@^1.8.1:
-  version "1.8.1"
-  resolved "https://registry.yarnpkg.com/twin.macro/-/twin.macro-1.8.1.tgz#b3e1ef2a38db04a440acf0c49c98c77265302c8e"
-  integrity sha512-xejgYBx5QHfsuDg9Ci1PlpAmB+0m1MDQd/EXw0EwqRk2whe7ZVgbKq9LahPKkQbHl6gOZuSc46cWn2qz+DgjZg==
+twin.macro@^1.10.0:
+  version "1.10.0"
+  resolved "https://registry.yarnpkg.com/twin.macro/-/twin.macro-1.10.0.tgz#b13d0934457d4cae54f1504a3a2ed744ed603960"
+  integrity sha512-+K9xvBvlx7iQ+CRatqNO/3VVV2+D+rbxexViKFtkjlICd+7A9hp5/8IOQ3SUPTQp80Ouist3Zcs/89quSLaoZg==
   dependencies:
     "@babel/parser" "^7.10.2"
     babel-plugin-macros "^2.8.0"
@@ -4936,7 +4936,7 @@ twin.macro@^1.8.1:
     dset "^2.0.1"
     lodash.merge "^4.6.2"
     string-similarity "^4.0.1"
-    tailwindcss "^1.7.5"
+    tailwindcss "^1.8.8"
     timsort "^0.3.0"
 
 type-fest@^0.7.1:
