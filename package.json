@@ -8,10 +8,10 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "9.5.3",
+    "next": "^10.0.3",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "styled-components": "^5.2.0",
-    "twin.macro": "^1.10.0"
+    "styled-components": "^5.2.1",
+    "twin.macro": "^1.12.1"
   }
 }
